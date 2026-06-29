@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexron-website.github.io/nexron-website/sitemap.xml
